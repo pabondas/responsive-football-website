@@ -42,7 +42,6 @@ section > .top-banner{
     margin-top: 100px;
     margin-left: 30px;
     margin-bottom: 0px;
-    /* padding-bottom:40px;*/
     line-height: 70px;
 }
 button{
@@ -150,7 +149,7 @@ button:hover{
         width: 300px;
      }
     .players-section{
-            width:100%;
+            width:70%;
             display: grid;
             grid-template-columns: repeat(1, 1fr);
             justify-content: center;
